@@ -156,6 +156,11 @@ OR
 
 - [Click Here](https://github.com/Doheera-kosi/hello-react-front-end)
 
+## Frontend
+
+The frontend for this project is available at [http://localhost:3001](http://localhost:3001).
+
+
 - Clone this repository to your desired folder:
 
 - Example command:
