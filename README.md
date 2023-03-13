@@ -26,7 +26,7 @@
 
 # 📖 [Hello rails back-end] <a name="about-project"></a>
 
-> Hello rails back-end is a project that I built as a practical start for learning how to create a separate backend and an api endpoint to be consumed by other front-end frameworks like ReactJs, VueJs etc. In this project i used postgreqsl as a database management system. In this project I set up a table that stores messages in an api endpoint.
+> Hello rails back-end is a project that I built as a practical start for learning how to create a separate backend and an api endpoint to be consumed by other front-end frameworks like ReactJs, etc. In this project i used postgreqsl as a database management system. In this project I set up a table that stores messages in an api endpoint.
 
 **[Hello rails back-end]** is a ruby Api endpoint for storing messages.
 
