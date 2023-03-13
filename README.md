@@ -88,7 +88,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-`git clone git@github.com:Strangeal/hello-rails-back-end.git`
+`git clone git@github.com:Doheera-kosi/hello-rails-back-end.git`
 
 then
 
